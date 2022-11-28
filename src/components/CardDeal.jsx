@@ -12,8 +12,7 @@ const CardDeal = () => {
           Find a better card deal <br className="sm:block hidden" /> in few easy
           steps.
         </h2>
-		<p className={`${styles.paragraph} max-w-[480px] mt-5`} >Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.</p>
+		<p className={`${styles.paragraph} max-w-[480px] mt-5`} >Reliable and trustworthy. Your money is safe with us. Your first choice for monetary needs.</p>
 		<Button styles="mt-10"/>
       </div>
 

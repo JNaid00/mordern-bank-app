@@ -15,9 +15,7 @@ const Billing = () => {
           Easily control your <br className="sm:block hidden" /> billing &
           invoicing
         </h2>
-		<p className={`${styles.paragraph} max-w-[470px] mt-5`}>Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
-        aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.</p>
+		<p className={`${styles.paragraph} max-w-[470px] mt-5`}>In fact, it is the product, but also the mass. In fact, the entire medical center is located in the whole street.</p>
 		<div className="flex flex-row flex-wrap sm:mt-10 mt-6">
 		<img src={apple} className="w-[128px] h-[42px] object-contain mr-5 cursor-pointer"></img>
 		<img src={google} className="w-[128px] h-[42px] object-contain cursor-pointer"></img>
